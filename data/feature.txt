@@ -1,0 +1,30 @@
+0-- reg_time: string
+1-- user_type: integer  
+2-- gender: integer 
+3-- age: integer 
+4-- zodiac: integer 
+5-- age_style: integer  
+6-- brand: integer  
+7-- rlat_create_time: string  
+8-- common_address_area_1y: integer
+9-- common_address_city_level_1y: integer
+10-- common_address_province_1y: integer  
+11-- diff_phone_cnt_1y: integer 
+12-- diff_address_cnt_1y: integer  
+13-- diff_consignee_cnt_1y: integer
+14-- total purchase value: float-
+15-- purchase value last time:float 
+16-- average purchase value: float
+17-- total number of purchase : float
+18-- number of days since last purchase: float
+19-- average number of days between purchase: float
+20-- total number of returns: float
+21-- total value of returns: float
+22-- number of days since last return: float
+23-- return value last return: float 
+24-- purchase value in the past quarter: float
+25-- purchase value in the past year: float
+26-- purchase value in the past month: float
+27-- purchase number in the past quarter: float
+28-- purchase numbers in the past half year:  float
+29-- purchase numbers in the past month:  float
